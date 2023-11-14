@@ -18,7 +18,7 @@ while (anoCorreto == False):
            print(f"{nome} sua idade é {idade}")
       else :
 
-           print("Ano de Nascimento inválido")
+           print("Ano de Nascimento inválido!")
 
    except:
 
